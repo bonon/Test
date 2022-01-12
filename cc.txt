@@ -1,0 +1,9 @@
+Board type: CC2530 + RFX2401 (config control pins!!!)
+Device type: Router
+ Transmit enable (TXEN): P11Receive enable (RXEN), P10
+Manufacturer ID: 64447
+Manufacturer name: ptvo.info
+Model ID: ptvo.switch
+Update firmware's timestamp : 2022-01-12
+Status LED: P20 (Inversed), Periodic (every 5 seconds)
+Set default reporting interval (s): 60
